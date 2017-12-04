@@ -1,4 +1,4 @@
-//=============================================================================
+﻿//=============================================================================
 // rpg_objects.js
 //=============================================================================
 
@@ -4773,7 +4773,7 @@ Game_Party.prototype.battleMembers = function() {
 };
 
 Game_Party.prototype.maxBattleMembers = function() {
-    return 4;
+    return 5;
 };
 
 Game_Party.prototype.leader = function() {
